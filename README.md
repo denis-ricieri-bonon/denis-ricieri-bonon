@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denis-ricieri-bonon
 - 👀 I’m interested in WEB Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, Nest.js, TypeScript
+- 🌱 I’m currently learning Computer Science, HTML, CSS, JavaScript, Node.js, Nest.js, TypeScript
 - 💞️ I’m looking to collaborate on WEB Projects...
 - 📫 How to reach me... denis.bonon@gmail.com
  
